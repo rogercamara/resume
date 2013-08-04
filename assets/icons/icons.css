@@ -1,0 +1,158 @@
+@font-face {
+	font-family: 'icomoon';
+	src:url('fonts/icomoon.eot');
+	src:url('fonts/icomoon.eot?#iefix') format('embedded-opentype'),
+		url('fonts/icomoon.woff') format('woff'),
+		url('fonts/icomoon.ttf') format('truetype'),
+		url('fonts/icomoon.svg#icomoon') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+/* Use the following CSS code if you want to use data attributes for inserting your icons */
+[data-icon]:before {
+	font-family: 'icomoon';
+	content: attr(data-icon);
+	speak: none;
+	font-weight: normal;
+	line-height: 1;
+	-webkit-font-smoothing: antialiased;
+}
+
+/* Use the following CSS code if you want to have a class per icon */
+/*
+Instead of a list of all class selectors,
+you can use the generic selector below, but it's slower:
+[class*="icon-"]:before {
+*/
+.icon-IE:before, .icon-firefox:before, .icon-opera:before, .icon-safari:before, .icon-css3:before, .icon-html5:before, .icon-code:before, .icon-chrome:before, .icon-x:before, .icon-mail:before, .icon-graduation:before, .icon-google-plus:before, .icon-plane:before, .icon-pencil:before, .icon-switch:before, .icon-plus:before, .icon-minus:before, .icon-android:before, .icon-wordpress:before, .icon-google-drive:before, .icon-dribbble:before, .icon-html5-2:before, .icon-code-2:before, .icon-lightbulb:before, .icon-linkedin:before, .icon-github:before, .icon-facebook:before, .icon-twitter:before, .icon-mobile:before, .icon-monitor:before, .icon-dribbble-2:before, .icon-googleplus:before, .icon-reorder:before, .icon-mail-2:before, .icon-screen:before, .icon-laptop:before, .icon-mobile-2:before, .icon-mobile-3:before, .icon-tablet:before, .icon-tv:before, .icon-print:before {
+	font-family: 'icomoon';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	line-height: 1;
+	-webkit-font-smoothing: antialiased;
+}
+.icon-IE:before {
+	content: "\e003";
+}
+.icon-firefox:before {
+	content: "\e004";
+}
+.icon-opera:before {
+	content: "\e005";
+}
+.icon-safari:before {
+	content: "\e006";
+}
+.icon-css3:before {
+	content: "\e007";
+}
+.icon-html5:before {
+	content: "\e008";
+}
+.icon-code:before {
+	content: "\e00c";
+}
+.icon-chrome:before {
+	content: "\e00d";
+}
+.icon-x:before {
+	content: "\e00e";
+}
+.icon-mail:before {
+	content: "\e00f";
+}
+.icon-graduation:before {
+	content: "\e010";
+}
+.icon-google-plus:before {
+	content: "\e000";
+}
+.icon-plane:before {
+	content: "\f072";
+}
+.icon-pencil:before {
+	content: "\e001";
+}
+.icon-switch:before {
+	content: "\e002";
+}
+.icon-plus:before {
+	content: "\e009";
+}
+.icon-minus:before {
+	content: "\e00a";
+}
+.icon-android:before {
+	content: "\e00b";
+}
+.icon-wordpress:before {
+	content: "\e011";
+}
+.icon-google-drive:before {
+	content: "\e012";
+}
+.icon-dribbble:before {
+	content: "\e013";
+}
+.icon-html5-2:before {
+	content: "\e014";
+}
+.icon-code-2:before {
+	content: "\e015";
+}
+.icon-lightbulb:before {
+	content: "\f0eb";
+}
+.icon-linkedin:before {
+	content: "\e016";
+}
+.icon-github:before {
+	content: "\e017";
+}
+.icon-facebook:before {
+	content: "\e018";
+}
+.icon-twitter:before {
+	content: "\e019";
+}
+.icon-mobile:before {
+	content: "\e01a";
+}
+.icon-monitor:before {
+	content: "\e01b";
+}
+.icon-dribbble-2:before {
+	content: "\e01c";
+}
+.icon-googleplus:before {
+	content: "\e01d";
+}
+.icon-reorder:before {
+	content: "\f0c9";
+}
+.icon-mail-2:before {
+	content: "\e022";
+}
+.icon-screen:before {
+	content: "\e023";
+}
+.icon-laptop:before {
+	content: "\e024";
+}
+.icon-mobile-2:before {
+	content: "\e025";
+}
+.icon-mobile-3:before {
+	content: "\e026";
+}
+.icon-tablet:before {
+	content: "\e027";
+}
+.icon-tv:before {
+	content: "\e028";
+}
+.icon-print:before {
+	content: "\e029";
+}
