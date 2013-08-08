@@ -332,7 +332,7 @@ html, body {
     display: none; }
 
   #summary {
-    height: 40%;
+    height: auto;
     width: 20%;
     top: 20%;
     left: 10%;
